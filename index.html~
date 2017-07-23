@@ -140,7 +140,7 @@
     <section class="no-padding" id="portfolio">
         <div class="container-fluid">
             <div class="row no-gutter popup-gallery">
-                <div class="col-lg-4 col-sm-26">
+                <div class="col-lg-4 col-sm-12">
                     <a href="img/portfolio/fullsize/20160704_173635.jpg.png" class="portfolio-box">
                         <img src="img/portfolio/thumbnails/20160704_173635.jpg.png" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
@@ -155,7 +155,7 @@
                         </div>
                     </a>
                 </div>
-                <div class="col-lg-4 col-sm-26">
+                <div class="col-lg-4 col-sm-12">
                     <a href="img/portfolio/fullsize/20160819_135409.jpg.png" class="portfolio-box">
                         <img src="img/portfolio/thumbnails/20160819_135409.jpg.png" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
@@ -170,7 +170,7 @@
                         </div>
                     </a>
                 </div>
-                <div class="col-lg-4 col-sm-26">
+                <div class="col-lg-4 col-sm-12">
                     <a href="img/portfolio/fullsize/20160819_135413.jpg.png" class="portfolio-box">
                         <img src="img/portfolio/thumbnails/20160819_135413.jpg.png" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
@@ -185,7 +185,7 @@
                         </div>
                     </a>
                 </div>
-                <div class="col-lg-4 col-sm-26">
+                <div class="col-lg-4 col-sm-12">
                     <a href="img/portfolio/fullsize/20161004_072719.jpg.png" class="portfolio-box">
                         <img src="img/portfolio/thumbnails/20161004_072719.jpg.png" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
@@ -201,7 +201,7 @@
                     </a>
                 </div>
 
-                <div class="col-lg-4 col-sm-26">
+                <div class="col-lg-4 col-sm-12">
                     <a href="img/portfolio/fullsize/20161009_161658.jpg.png" class="portfolio-box">
                         <img src="img/portfolio/thumbnails/20161009_161658.jpg.png" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
@@ -217,7 +217,7 @@
                     </a>
                 </div>
 
-                <div class="col-lg-4 col-sm-26">
+                <div class="col-lg-4 col-sm-12">
                     <a href="img/portfolio/fullsize/20161009_165906.jpg.png" class="portfolio-box">
                         <img src="img/portfolio/thumbnails/20161009_165906.jpg.png" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
@@ -233,7 +233,7 @@
                     </a>
                 </div>
 
-                <div class="col-lg-4 col-sm-26">
+                <div class="col-lg-4 col-sm-12">
                     <a href="img/portfolio/fullsize/20161009_165937.jpg.png" class="portfolio-box">
                         <img src="img/portfolio/thumbnails/20161009_165937.jpg.png" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
@@ -249,7 +249,7 @@
                     </a>
                 </div>
 
-                <div class="col-lg-4 col-sm-26">
+                <div class="col-lg-4 col-sm-12">
                     <a href="img/portfolio/fullsize/20161009_170000.jpg.png" class="portfolio-box">
                         <img src="img/portfolio/thumbnails/20161009_170000.jpg.png" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
@@ -265,7 +265,7 @@
                     </a>
                 </div>
 
-                <div class="col-lg-4 col-sm-26">
+                <div class="col-lg-4 col-sm-12">
                     <a href="img/portfolio/fullsize/20161102_172450.jpg.png" class="portfolio-box">
                         <img src="img/portfolio/thumbnails/20161102_172450.jpg.png" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
@@ -281,7 +281,7 @@
                     </a>
                 </div>
 
-                <div class="col-lg-4 col-sm-26">
+                <div class="col-lg-4 col-sm-12">
                     <a href="img/portfolio/fullsize/20161102_172457.jpg.png" class="portfolio-box">
                         <img src="img/portfolio/thumbnails/20161102_172457.jpg.png" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
@@ -297,7 +297,7 @@
                     </a>
                 </div>
 
-                <div class="col-lg-4 col-sm-26">
+                <div class="col-lg-4 col-sm-12">
                     <a href="img/portfolio/fullsize/20161220_164025.jpg.png" class="portfolio-box">
                         <img src="img/portfolio/thumbnails/20161220_164025.jpg.png" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
@@ -313,7 +313,7 @@
                     </a>
                 </div>
 
-                <div class="col-lg-4 col-sm-26">
+                <div class="col-lg-4 col-sm-12">
                     <a href="img/portfolio/fullsize/20161220_170813.jpg.png" class="portfolio-box">
                         <img src="img/portfolio/thumbnails/20161220_170813.jpg.png" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
@@ -329,7 +329,7 @@
                     </a>
                 </div>
 
-                <div class="col-lg-4 col-sm-26">
+                <div class="col-lg-4 col-sm-12">
                     <a href="img/portfolio/fullsize/20161220_170843.jpg.png" class="portfolio-box">
                         <img src="img/portfolio/thumbnails/20161220_170843.jpg.png" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
@@ -345,7 +345,7 @@
                     </a>
                 </div>
 
-                <div class="col-lg-4 col-sm-26">
+                <div class="col-lg-4 col-sm-12">
                     <a href="img/portfolio/fullsize/20161220_170919.jpg.png" class="portfolio-box">
                         <img src="img/portfolio/thumbnails/20161220_170919.jpg.png" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
@@ -361,7 +361,7 @@
                     </a>
                 </div>
 
-                <div class="col-lg-4 col-sm-26">
+                <div class="col-lg-4 col-sm-12">
                     <a href="img/portfolio/fullsize/20170504_100359.jpg.png" class="portfolio-box">
                         <img src="img/portfolio/thumbnails/20170504_100359.jpg.png" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
@@ -377,7 +377,7 @@
                     </a>
                 </div>
 
-                <div class="col-lg-4 col-sm-26">
+                <div class="col-lg-4 col-sm-12">
                     <a href="img/portfolio/fullsize/20170504_112911.jpg.png" class="portfolio-box">
                         <img src="img/portfolio/thumbnails/20170504_112911.jpg.png" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
@@ -393,7 +393,7 @@
                     </a>
                 </div>
 
-                <div class="col-lg-4 col-sm-26">
+                <div class="col-lg-4 col-sm-12">
                     <a href="img/portfolio/fullsize/20170504_113628.jpg.png" class="portfolio-box">
                         <img src="img/portfolio/thumbnails/20170504_113628.jpg.png" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
@@ -409,7 +409,7 @@
                     </a>
                 </div>
 
-                <div class="col-lg-4 col-sm-26">
+                <div class="col-lg-4 col-sm-12">
                     <a href="img/portfolio/fullsize/20170504_114227.jpg.png" class="portfolio-box">
                         <img src="img/portfolio/thumbnails/20170504_114227.jpg.png" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
@@ -425,7 +425,7 @@
                     </a>
                 </div>
 
-                <div class="col-lg-4 col-sm-26">
+                <div class="col-lg-4 col-sm-12">
                     <a href="img/portfolio/fullsize/20170504_114404.jpg.png" class="portfolio-box">
                         <img src="img/portfolio/thumbnails/20170504_114404.jpg.png" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
@@ -441,7 +441,7 @@
                     </a>
                 </div>
 
-                <div class="col-lg-4 col-sm-26">
+                <div class="col-lg-4 col-sm-12">
                     <a href="img/portfolio/fullsize/IMG_20170629_110307.png" class="portfolio-box">
                         <img src="img/portfolio/thumbnails/IMG_20170629_110307.png" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
@@ -457,7 +457,7 @@
                     </a>
                 </div>
 
-                <div class="col-lg-4 col-sm-26">
+                <div class="col-lg-4 col-sm-12">
                     <a href="img/portfolio/fullsize/20160511_110527.png" class="portfolio-box">
                         <img src="img/portfolio/thumbnails/20160511_110527.png" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
@@ -473,7 +473,7 @@
                     </a>
                 </div>
 
-                <div class="col-lg-4 col-sm-26">
+                <div class="col-lg-4 col-sm-12">
                     <a href="img/portfolio/fullsize/IMG_20170719_174536.png" class="portfolio-box">
                         <img src="img/portfolio/thumbnails/IMG_20170719_174536.png" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
@@ -489,7 +489,7 @@
                     </a>
                 </div>
 
-                <div class="col-lg-4 col-sm-26">
+                <div class="col-lg-4 col-sm-12">
                     <a href="img/portfolio/fullsize/IMG_20170719_175117.png" class="portfolio-box">
                         <img src="img/portfolio/thumbnails/IMG_20170719_175117.png" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">

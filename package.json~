@@ -24,6 +24,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/diaposada/diaposada.github.io.git"
+    "url": "git@github.com:diaposada/diaposada.github.io.git"
   }
 }
